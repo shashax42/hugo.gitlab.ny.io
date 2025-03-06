@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Jun 2024 12:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>첫 번째 포스트</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Tue, 25 Jun 2024 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>안녕하세요, 이것은 제 첫 번째 블로그 포스트입니다!&#xA;이건 소제목입니다 여기에 내용을 더 추가할 수 있습니다. Markdown 형식을 사용하여 텍스트를 꾸밀 수 있습니다.&#xA;첫 번째 항목 두 번째 항목 세 번째 항목 굵은 글씨나 기울임 글씨를 사용할 수 있습니다.&#xA;# 코드 블록도 추가할 수 있습니다. print(&amp;#34;Hello, world!&amp;#34;) </description>
+    </item>
+  </channel>
+</rss>
